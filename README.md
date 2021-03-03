@@ -1,8 +1,7 @@
+[![Build Status][https://dev.azure.com/MoniqueHampton/pipelines-java/_apis/build/status/MoHampton.pipelines-java?branchName=master)]](https://dev.azure.com/MoniqueHampton/pipelines-java/_build/latest?definitionId=1&branchName=master)
+
 # Azure Pipelines Tasks
 ![Tasks](/taskbanner.png "Tasks")
-
-![Build Status](https://dev.azure.com/MoniqueHampton/pipelines-java/_apis/build/status/MoHampton.pipelines-java?branchName=master)(https://dev.azure.com/MoniqueHampton/pipelines-java/_build/latest?definitionId=1&branchName=master)
-
 
 ## Overview
 This repo contains the tasks that are provided out-of-the-box with Azure Pipelines and Team Foundation Server.
