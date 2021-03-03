@@ -1,4 +1,4 @@
-[![Build Status][https://dev.azure.com/MoniqueHampton/pipelines-java/_apis/build/status/MoHampton.pipelines-java?branchName=master)]](https://dev.azure.com/MoniqueHampton/pipelines-java/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/MoniqueHampton/pipelines-java/_apis/build/status/MoHampton.pipelines-java?branchName=master)](https://dev.azure.com/MoniqueHampton/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Azure Pipelines Tasks
 ![Tasks](/taskbanner.png "Tasks")
